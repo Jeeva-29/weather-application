@@ -1,0 +1,13 @@
+.app-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      height: 100vh;
+      background-image: url('C:/Users/NEW/Downloads/bgimg.jpg'); /* Update with your image path */
+      background-size: cover; /* Ensure the background image covers the entire container */
+      background-position: center; /* Center the background image */
+    }
+    
+    
+    
